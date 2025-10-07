@@ -46,7 +46,15 @@ setx OPENAI_API_KEY "YOUR_OPENAI_API_KEY"
 
 Important: Do not commit your API key to GitHub. Always use .gitignore to exclude .env or config files containing secrets.
 
+## Run the chat application:
 
+python main.py
+
+Type your messages after You: prompt.
+
+Commands:
+exit → Quit the chat
+clear → Reset the chat
 
 ## Setup
 
