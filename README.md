@@ -56,6 +56,14 @@ Commands:
 exit → Quit the chat
 clear → Reset the chat
 
+#Security
+
+.env and API keys are excluded from GitHub via .gitignore.
+
+Never commit sensitive information.
+
+Use a fresh mirror clone if you accidentally commit secrets.
+
 ## Setup
 
 1. **Clone the repository:**
