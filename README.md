@@ -16,3 +16,11 @@ A simple Python-based ChatGPT-style AI that interacts with OpenAI's GPT models. 
 
 ## Folder Structure
 
+OpenAI/
+├── main.py # Entry point for the chat application
+├── chat_engine.py # Handles sending prompts and receiving AI responses
+├── config.py # API client and configuration
+├── requirements.txt # Python dependencies
+├── .gitignore # Excludes secrets and temporary files
+└── README.md # Project documentation
+
