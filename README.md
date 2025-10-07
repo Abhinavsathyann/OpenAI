@@ -66,6 +66,7 @@ Use a fresh mirror clone if you accidentally commit secrets.
 
 ## References
 https://platform.openai.com/docs/api-reference/introduction
+
 https://docs.github.com/code-security/secret-scanning
 
 ## Setup
