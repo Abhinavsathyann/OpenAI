@@ -56,7 +56,7 @@ Commands:
 exit → Quit the chat
 clear → Reset the chat
 
-#Security
+## Security
 
 .env and API keys are excluded from GitHub via .gitignore.
 
