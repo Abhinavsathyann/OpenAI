@@ -24,3 +24,13 @@ OpenAI/
 ├── .gitignore # Excludes secrets and temporary files
 └── README.md # Project documentation
 
+
+---
+
+## Setup
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/Abhinavsathyann/OpenAI.git
+cd OpenAI
