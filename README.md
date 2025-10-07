@@ -24,6 +24,11 @@ OpenAI/
 ├── .gitignore # Excludes secrets and temporary files
 └── README.md # Project documentation
 
+## Create a virtual environment (optional but recommended):
+
+python -m venv venv
+venv\Scripts\activate     # Windows
+source venv/bin/activate  # macOS / Linux
 
 ---
 
