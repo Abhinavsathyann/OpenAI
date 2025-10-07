@@ -40,6 +40,14 @@ pip install -r requirements.txt
 
 ---
 
+## Set your OpenAI API key as an environment variable:
+
+setx OPENAI_API_KEY "YOUR_OPENAI_API_KEY"
+
+Important: Do not commit your API key to GitHub. Always use .gitignore to exclude .env or config files containing secrets.
+
+
+
 ## Setup
 
 1. **Clone the repository:**
